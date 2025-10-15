@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ali 👋
 
-<!--
-**muhali238/muhali238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Artificial Intelligence Engineer  
+💻 Passionate about Machine Learning, Robotics, and Smart Systems  
+🧩 Skilled in Python, C, and Arduino Programming  
 
-Here are some ideas to get you started:
+I’m currently applying to **MBZUAI** for a Bachelor’s in **Artificial Intelligence (Engineering)** and love exploring how AI can solve real-world problems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 My Projects
+- **Smart Bridge (Arduino Uno)** – Automated bridge system using sensors and microcontrollers.  
+- **Image Recognition (Python)** – Detects objects in images using a pre-trained deep learning model.  
+
+## 🧰 Languages & Tools
+Python | C | Arduino | Git | Machine Learning
+
+## 🌍 Goals
+To become a leading AI Engineer and contribute to the growth of Pakistan’s tech industry.
+
+---
+
+📫 **Connect with me:**  
+[muhammadali454649@gmail.com](mailto:muhammadali454649@gmail.com)
+
 -->
